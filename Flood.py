@@ -1,4 +1,4 @@
-projects/ee-Otutu/assets/Niger_Delta_
+projects/ee-Otutu/assets/Bayelsa-
 // Define the time period for analysis
 var startDate = '2022-09-20';
 var endDate = '2022-10-30';
